@@ -7,3 +7,4 @@
 - Exercice 3 : Supprimer les doublons dans un tableau
 - Exercice 4 : Compter les occurrences d'un caractère dans une chaîne
 - Exercice 5 : Vérifier si deux chaînes de caractères sont des anagrammes
+- Exercice 6 : Trouver le premier caractère non répété
