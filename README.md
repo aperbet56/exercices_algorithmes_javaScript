@@ -2,4 +2,4 @@
 
 ## Le challenge
 
-- Exercice 1 : Trouver la facorielle d'un nombre
+- Exercice 1 : Trouver la factorielle d'un nombre
