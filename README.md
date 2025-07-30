@@ -8,3 +8,4 @@
 - Exercice 4 : Compter les occurrences d'un caractère dans une chaîne de caractères
 - Exercice 5 : Vérifier si deux chaînes de caractères sont des anagrammes
 - Exercice 6 : Trouver le premier caractère non répété
+- Exercice 7 : Fusionner deux tableaux en un seul
