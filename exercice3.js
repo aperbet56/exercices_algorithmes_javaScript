@@ -17,3 +17,10 @@ console.log(
     "kiwi",
   ])
 ); // [ "banane", "pomme", "fraise", "kiwi" ]
+
+/* Solution 2
+
+const removeDuplicates = (array) => {
+  return array.filter((item, i) => array.indexOf(item) === i);
+};
+*/
