@@ -9,3 +9,4 @@
 - Exercice 5 : Vérifier si deux chaînes de caractères sont des anagrammes
 - Exercice 6 : Trouver le premier caractère non répété
 - Exercice 7 : Fusionner deux tableaux en un seul
+- Exercice 8 : Trouver le plus grand et le plus petit nombre dans un tableau
