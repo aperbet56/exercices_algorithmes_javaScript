@@ -8,3 +8,10 @@ const mergeArrays = () => {
 };
 
 console.log(mergeArrays(array1, array2)); // [ 1, 2, 3, 4, 5, 6, 7, 8]
+
+/* Solution 2 : Avec le spread operator
+
+const mergeArrays = () => {
+  return [...array1, ...array2];
+};
+*/
