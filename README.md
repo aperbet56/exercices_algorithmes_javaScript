@@ -14,3 +14,4 @@
 - Exercice 10 : Ecrire une focntion qui va permettre d'unir deux tableaux ensemble
 - Exercice 11 : Write a function to get the intersection of two arrays
 - Exercice 12 : Remove all the falsy values from an array (false, 0, NaN, "", null, udefined)
+- Exercice 13: Write a function to flatten a nested array
