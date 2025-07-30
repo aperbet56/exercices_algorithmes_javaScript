@@ -21,3 +21,15 @@ console.log(
     "grape",
   ])
 ); // {"apple": 2, "banana": 2, "ananas": 1, "orange": 1, "grape": 1}
+
+console.log(
+  countOccurences([
+    "Lyon",
+    "Paris",
+    "Marseille",
+    "Lyon",
+    "Nice",
+    "Lyon",
+    "Lens",
+  ])
+); // {"Lyon": 3, "Paris": 1, "Marseille": 1, "Nice": 1, "Lens": 1}
