@@ -13,3 +13,4 @@
 - Exercice 9 : Ecrire une fonction qui compte le nombre d'occurence de chaque élément d'un tableau
 - Exercice 10 : Ecrire une focntion qui va permettre d'unir deux tableaux ensemble
 - Exercice 11 : Write a function to get the intersection of two arrays
+- Exercice 12 : Remove all the falsy values from an array (false, 0, NaN, "", null, udefined)
