@@ -16,3 +16,4 @@
 - Exercice 12 : Remove all the falsy values from an array (false, 0, NaN, "", null, udefined)
 - Exercice 13 : Write a function to flatten a nested array
 - Exercice 14 : Classer / Trier les éléments d'un tableau par ordre alphabétique
+- Exercice 15 : Classer / Trier les nombres par ordre croissant (L'ordre croissant est une disposition de nombres allant du plus petit au plus grand)
