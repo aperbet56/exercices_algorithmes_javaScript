@@ -17,3 +17,4 @@
 - Exercice 13 : Write a function to flatten a nested array
 - Exercice 14 : Classer / Trier les éléments d'un tableau par ordre alphabétique
 - Exercice 15 : Classer / Trier les nombres par ordre croissant (L'ordre croissant est une disposition de nombres allant du plus petit au plus grand)
+- Exercice 16 : Classer / Trier les nombres par ordre décroissant (L'ordre décroissant est une disposition de nombres allant du plus grand au plus petit.)
