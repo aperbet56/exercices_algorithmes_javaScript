@@ -21,3 +21,4 @@
 - Exercice 17 : À partir de deux variables (int) qui peuvent changer n'importe quand, créer une condition qui permet d'afficher dans la console le plus petit des deux nombres. Si les nombres sont identique, afficher : "C'est les mêmes !!"
 - Exercice 18 : Créer une condition qui permet de vérifier si la personne a + de 18 ans et mesure + de 150cm ,dans ce cas : Afficher dans la console : "Je peux rentrer dans le manège". Sinon, afficher dans la console : "Je n'ai pas le droit de rentrer dans le manège".
 - Exercice 19 : Créer une fonction qui prend en paramètre un prix HT unitaire d’un produit et son nombre de produit. On veut connaitre le total TTC.
+- Exercice 20 : Créer une fonction qui prend en paramètre une température d'un volume d'eau : on veut saovir dans quel état est l'eau (solide, liquide, gaz), (positif: liquide, négatif: solide au delà de 100°: gaz)
