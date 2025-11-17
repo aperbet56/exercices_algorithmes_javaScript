@@ -18,3 +18,4 @@
 - Exercice 14 : Classer / Trier les éléments d'un tableau par ordre alphabétique
 - Exercice 15 : Classer / Trier les nombres par ordre croissant (L'ordre croissant est une disposition de nombres allant du plus petit au plus grand)
 - Exercice 16 : Classer / Trier les nombres par ordre décroissant (L'ordre décroissant est une disposition de nombres allant du plus grand au plus petit.)
+- Exercice 17 : À partir de deux variables (int) qui peuvent changer n'importe quand, créer une condition qui permet d'afficher dans la console le plus petit des deux nombres. si les nombres sont identique, afficher : "C'est les mêmes !!"
